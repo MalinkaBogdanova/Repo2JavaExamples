@@ -1,3 +1,5 @@
+package LoopsNestedEx1;
+
 public class LoopNestedExample02 {
     /*
 1
